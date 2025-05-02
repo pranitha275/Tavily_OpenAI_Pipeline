@@ -1,0 +1,66 @@
+{
+    "company_name": "Peelechi",
+    "website": "https://www.peelechi.com",
+    "founding_date": "2019-06-12",
+    "location": {
+      "headquarters": "Austin, Texas, USA",
+      "operations": ["United States", "Canada", "UK"]
+    },
+    "organizational_structure": "Privately held; functional structure with dedicated teams for product, marketing, customer service, and operations.",
+    "core_values": [
+      "Customer-first approach",
+      "Sustainable and ethical sourcing",
+      "Transparency in pricing and processes",
+      "Data-driven decision-making",
+      "Continuous innovation"
+    ],
+    "revenue_figures": {
+      "last_fiscal_year": "$3.2M",
+      "growth_rate": "22% YoY",
+      "primary_revenue_streams": ["Online product sales", "Subscription model", "Affiliate partnerships"]
+    },
+    "market_position": "Mid-sized direct-to-consumer beauty brand specializing in premium skincare solutions for sensitive skin.",
+    "vision": "To make dermatologically-safe skincare accessible to all.",
+    "mission": "To empower individuals with sensitive skin by offering high-performance skincare products that are backed by science and safe for all skin types.",
+    "goals": [
+      "Expand international shipping in Q3 2025",
+      "Launch mobile app for skin tracking",
+      "Achieve carbon-neutral shipping by 2026"
+    ],
+    "product_and_service_offering": [
+      "Skincare products (cleansers, serums, moisturizers, SPF)",
+      "Skin consultation quizzes",
+      "Personalized skincare kits",
+      "Monthly subscription boxes"
+    ],
+    "founding_members": [
+      {
+        "name": "Leila Mendez",
+        "role": "Founder & CEO",
+        "background": "Former clinical researcher in dermatology with a passion for holistic skincare."
+      },
+      {
+        "name": "Amit Rao",
+        "role": "Co-Founder & CTO",
+        "background": "Tech entrepreneur with expertise in personalization algorithms and ecommerce infrastructure."
+      }
+    ],
+    "history_and_milestones": [
+      "2019: Founded and launched first product line",
+      "2020: Reached $500K in revenue; launched DTC website",
+      "2021: Introduced AI-based skin quiz",
+      "2023: Expanded to Canada and UK",
+      "2024: Named one of the Top 20 DTC Brands by BeautyTech Weekly"
+    ],
+    "contact_information": {
+      "email": "support@peelechi.com",
+      "phone": "+1 (512) 555-8219",
+      "address": "2701 Bee Caves Rd, Austin, TX 78746"
+    },
+    "legal_information": {
+      "business_registration": "Peelechi Inc., Registered in Delaware",
+      "tax_id": "84-7630921",
+      "data_compliance": ["GDPR", "CCPA"]
+    }
+  }
+  
